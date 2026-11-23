@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680">
+  <rect width="1200" height="680" fill="#080c12"/>
+  <rect x="0" y="0" width="1200" height="54" fill="#20242a"/>
+  <text x="28" y="36" fill="#f0f3f6" font-family="Arial, sans-serif" font-size="22">the-creative-master / what-the-f-ck-</text>
+  <rect x="0" y="54" width="1200" height="626" fill="#0d1117"/>
+  <circle cx="80" cy="185" r="34" fill="#30363d"/>
+  <text x="80" y="195" text-anchor="middle" fill="#f0f3f6" font-family="Arial, sans-serif" font-size="34">A</text>
+  <text x="132" y="173" fill="#f0f3f6" font-family="Arial, sans-serif" font-size="30">the-creative-master's basement</text>
+
+  <g fill="#adbac7" font-family="Arial, sans-serif">
+    <text x="132" y="212" font-size="36">63 followers · 93 following</text>
+
+    <path d="M132 269 h18 v-10 h6 v10 h18 v18 h-42 z" fill="#adbac7"/>
+    <text x="190" y="286" font-size="27">in your fullstack department yapping code</text>
+
+    <circle cx="150" cy="346" r="20" fill="none" stroke="#adbac7" stroke-width="5"/>
+    <path d="M150 332 v16 l12 8" fill="none" stroke="#adbac7" stroke-width="5"/>
+    <text x="190" y="354" font-size="27">08:00 — 9h behind</text>
+
+    <path d="M132 412 l18 -18 l14 14 l-18 18 z M150 394 l12 -12 M128 416 l-12 12" fill="none" stroke="#adbac7" stroke-width="5"/>
+    <text x="190" y="420" font-size="27">userarham.github.io</text>
+
+    <path d="M132 474 l18 -18 l14 14 l-18 18 z M150 456 l12 -12 M128 478 l-12 12" fill="none" stroke="#adbac7" stroke-width="5"/>
+    <text x="190" y="482" font-size="27">https://www.reddit.com/r/Sprunki4/</text>
+  </g>
+
+  <rect x="900" y="54" width="300" height="626" fill="#010409"/>
+  <text x="930" y="110" fill="#58a6ff" font-family="Arial, sans-serif" font-size="44">Evidence</text>
+  <text x="930" y="190" fill="#adbac7" font-family="Arial, sans-serif" font-size="23">Screen grabbed at 17:00</text>
+  <text x="930" y="240" fill="#adbac7" font-family="Arial, sans-serif" font-size="23">Basement: confirmed</text>
+  <text x="930" y="290" fill="#adbac7" font-family="Arial, sans-serif" font-size="23">Silliness: maximum</text>
+
+  <rect x="0" y="620" width="1200" height="60" fill="#161b22"/>
+  <text x="600" y="658" text-anchor="middle" fill="#8b949e" font-family="Arial, sans-serif" font-size="20">Suspected typo: UserArham → UserArhma</text>
+</svg>
